@@ -1,0 +1,3 @@
+pb111	hamza	0601	hamza@gmail.com	zagora
+pb222	ismail	0602	ismail.com	warzazate
+pb333	khalid	0603	khalid@gmail.com	errachidia
