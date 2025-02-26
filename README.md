@@ -6,7 +6,8 @@ This project is a simple contact management system implemented in C. It allows u
 
 - Add new contacts
 - Delete existing contacts
-- Search for contacts by name
+- Modify existing contacts
+- Search for contacts by name,number ...
 - List all contacts
 
 ## Getting Started
